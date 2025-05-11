@@ -31,7 +31,4 @@ This project is a starting point for a Flutter application.
 - [🍳 Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 - [📚 Flutter Documentation](https://docs.flutter.dev/) – tutorials, samples, mobile dev guidance, and API reference.
 
----
-
-## 💻 Project Structure
 
